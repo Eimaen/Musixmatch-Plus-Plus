@@ -1,0 +1,9 @@
+Package: io.eimaen.mxmpp
+Name: Musixmatch++
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enchance Musixmatch experience.
+Maintainer: Eimaen
+Author: Eimaen
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
